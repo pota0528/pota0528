@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**pota0528/pota0528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ### 🛠 Interest Languages and Tools
 
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=CSS3&logoColor=white"/> </t>
